@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
-You can download my complete CV, in english, here. 
-You can acess my CV in Portuguese from the Brazillian Ministy of Education Database here
+- You can download my complete CV, in English, [here](https://github.com/fernandobrancoli/fernandobrancoli.github.io/blob/193cb1ee19a1560c43fa8d8e834a4e41e03a94d5/files/Brancoli%20CV,%20March%202023.pdf).
+
+- You can access my CV in Portuguese from the Brazilian Ministry of Education Database [here](http://lattes.cnpq.br/3406943273224326).
 
 
-Bio
+
+**Bio**
 
 Fernando Brancoli is an Associate Professor of International Security and Geopolitics at the Federal University of Rio de Janeiro's [Institute of International Relations and Defense (IRID-UFRJ)](https://irid.ufrj.br/), Brazil. He is also a Fellow at the [Institute for Advanced Studies (SPSS)](https://www.ias.edu/ideas/2022/fernando-brancoli-fellow-summer-program-social-science) in Princeton, US (2021-2023) and an Associated Researcher at the [Orfalea Center for Global Studies](https://secure.lsit.ucsb.edu/gisp/d7_orfalea-2/people/fernando-brancoli) at the University of California, Santa Barbara, US. Brancoli holds a PhD from the Graduate Program in International Relations at San Tiago Dantas (UNESP, Unicamp, and PUC-SP), Brazil, with a research period at the Center for Global Studies at the University of California, Santa Barbara. Brancoli is also part of a network of speakers at the [Asian Forum on Global Governance in India](https://www.orfonline.org/contributors/fernando-brancoli/) and the [Bucerius Summer School](https://www.bucerius-summer-school.de/f/34c66b33f8.pdf) in Germany.
 
