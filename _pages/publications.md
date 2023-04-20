@@ -13,7 +13,7 @@ You can also check a complete list at my [Google Scholar](https://scholar.google
 
 BRANCOLI, F.L. The Tropical Silk Road: The Future of China in South America. 1st ed. Stanford, California: Stanford University Press, 2022. 472p.
 
-(with Paul Amar, Lisa Rofel, Maria Viteri and Consuleo Viteri)
+(with Paul Amar, Lisa Rofel, Maria Viteri and Consuleo Salvador)
 
 BRANCOLI, F.L.. Arab Spring: squares, streets, and revolts. 1st ed. São Paulo: Desatino, 2013. 144p.
 
