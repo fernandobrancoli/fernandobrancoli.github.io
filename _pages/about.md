@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! Welcome to my (quite amateur) website. I created this space to better connect with colleagues from outside Brazil since our university pages can be a bit confusing.
+Hello and welcome to my website! I am delighted to provide this platform as a means to strengthen connections with colleagues outside of Brazil. As navigating our local university pages can prove challenging, I hope that this site offers a more efficient and straightforward way to connect with me and stay up-to-date with my research.
 
 I am an Associate Professor of International Security and Geopolitics at the Federal University of Rio de Janeiro’s Institute of International Relations and Defense (IRID-UFRJ) in Brazil. My research primarily focuses on South-South relations, with a significant emphasis on the circulation of narratives of security and development. Through extensive fieldwork across three continents, my research aims to shed light on the complex interactions and interdependencies between local and transnational agents.
 
