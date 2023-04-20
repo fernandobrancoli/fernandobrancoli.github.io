@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bem-vindos"
+title: "Bem-vindos!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I am an Associate Professor of International Security and Geopolitics at the Federal University of Rio de Janeiro's Institute of International Relations and Defense (IRID-UFRJ) in Brazil, and a Fellow at the Institute for Advanced Studies (SPSS) in Princeton, US (2021-2023). Additionally, I am an Associated Researcher at the Orfalea Center for Global Studies at the University of California, Santa Barbara, US.
+Hi! Welcome to my website. My name is Fernando Brancoli and I am an Associate Professor of International Security and Geopolitics at the Federal University of Rio de Janeiro's Institute of International Relations and Defense (IRID-UFRJ) in Brazil, and a Fellow at the Institute for Advanced Studies (SPSS) in Princeton, US (2021-2023). Additionally, I am an Associated Researcher at the Orfalea Center for Global Studies at the University of California, Santa Barbara, US.
 
 I completed my PhD at the Graduate Program in International Relations at San Tiago Dantas (U,NESP, Unicamp, and PUC-SP) in Brazil, with a research period at the Center for Global Studies at the University of California, Santa Barbara. I am also part of a network of speakers at the Asian Forum on Global Governance in India and the Bucerius Summer School in Germany.
 
