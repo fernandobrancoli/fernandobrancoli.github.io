@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Hi! Welcome to my (quite amateur) website. I created this space to better connect with colleagues from outside Brazil since our university pages can be a bit confusing.
 
 I am an Associate Professor of International Security and Geopolitics at the Federal University of Rio de Janeiro’s Institute of International Relations and Defense (IRID-UFRJ) in Brazil and a Fellow at the Institute for Advanced Studies (SPSS) in Princeton, US (2021-2023). Additionally, I am an Associated Researcher at the Orfalea Center for Global Studies at the University of California, Santa Barbara, US. My research primarily focuses on South-South relations, with a significant emphasis on narratives of security and development. Through extensive fieldwork across three continents, my research aims to shed light on the complex interactions and interdependencies between local and transnational agents.
