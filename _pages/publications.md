@@ -11,6 +11,8 @@ You can also check a complete list at my [Google Scholar](https://scholar.google
 
 **Books**
 
+BRANCOLI, F.L. [Bolsonarismo: The Global Origins and Future of Brazil’s Far Right]. (https://www.rutgersuniversitypress.org/bolsonarismo/9781978838550/). 1st ed. Rutgers University Press, 2023. 
+
 BRANCOLI, F.L. The [Tropical Silk Road: The Future of China in South America](https://www.sup.org/books/title/?id=34134). 1st ed. Stanford, California: Stanford University Press, 2022. 472p.
 
 (with Paul Amar, Lisa Rofel, Maria Viteri and Consuleo Salvador)
