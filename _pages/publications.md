@@ -17,8 +17,6 @@ BRANCOLI, F.L. The [Tropical Silk Road: The Future of China in South America](ht
 
 (with Paul Amar, Lisa Rofel, Maria Viteri and Consuleo Salvador)
 
-BRANCOLI, F.L.. Arab Spring: squares, streets, and revolts. 1st ed. São Paulo: Desatino, 2013. 144p.
-
 **Chapters in Edited Volumes**
 
 Brancoli, Fernando Luz. Islamic State, media practices, and propaganda strategies. In: Augusto V Leão;Danilo Bassi. (Org.). To begin to understand the Islamic State. 1st ed. Rio de Janeiro: Editora da UFRJ, 2023, v. 1, p. 209-225.
