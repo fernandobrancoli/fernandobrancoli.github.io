@@ -19,3 +19,5 @@ My recent books include [Bolsonarismo - The Global Origins and Future of Brazilâ
 
 As one of Brazil's most active public intellectuals, my articles have appeared in the Al Jazeera, CNN, Le Monde Diplomatique, Los Angeles Times, Globo, and Folha de SÃ£o Paulo. I am frequently invited to participate in political debates on Brazil's largest television networks, including Rede Globo and CNN Brasil. In addition, I have been invited as a specialist to boards at the Brazilian Senate and the Foreign Affairs Ministry.
 
+You can reach me at fernando.brancoli@ufrj.br
+
