@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-- You can download my complete CV, in English, [here](https://github.com/fernandobrancoli/fernandobrancoli.github.io/blob/193cb1ee19a1560c43fa8d8e834a4e41e03a94d5/files/Brancoli%20CV,%20March%202023.pdf).
+- You can download my complete CV, in English, [here](https://drive.google.com/file/d/1Qm_-cpFd-3QKtmv6y-_jgGiAdUhvgVDM/view?usp=drive_link).
 
 - You can access my CV in Portuguese from the Brazilian Ministry of Education Database [here](http://lattes.cnpq.br/3406943273224326).
 
